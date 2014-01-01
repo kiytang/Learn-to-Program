@@ -1,5 +1,3 @@
-# ”write a progrma that prints out the lyrics to “99 Bottles of Beer on the Wall
-
 bottles = 99
 
 # used > 2 aso that the plural bottles conforms correctly
