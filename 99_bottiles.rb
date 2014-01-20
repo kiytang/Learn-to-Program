@@ -1,6 +1,6 @@
 bottles = 99
 
-# used > 2 aso that the plural bottles conforms correctly
+# used > 2 so that the plural bottles conforms correctly
 while bottles > 2
 	puts "#{Bottles} bottles of beer on the wall, "
 	puts "#{bottles} bottles of beer,"
